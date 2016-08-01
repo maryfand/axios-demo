@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 1. npm install
 2. npm start
 3. 浏览器打开 localhost:4000
@@ -23,3 +24,7 @@
 ##### App.js dap
 import getGithubInfo from './utils/github.js';
 import Echarts from './components/echarts.js';
+=======
+# axios-demo
+it's a ECharts demo
+>>>>>>> d7e10cae7ec28b71a450cc66ba5d0f151a4b788b
